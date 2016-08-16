@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GlobleSearch</string>
+    <string name="et_hint">全局搜索</string>
+    <string name="search_web">百度</string>
+    <string name="hideactivity_title">隐藏空间</string>
+    <string name="auto_history">历史记录</string>
+    <string name="search_tip">没有找到相关内容</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+    <string name="rationale_ask_again">该APP需要部分系统权限</string>
+</resources>

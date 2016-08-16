@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_all"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorGray"
+    android:orientation="vertical"
+    tools:context="com.bbk.open.activity.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/layout_search"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x40"
+        android:layout_marginRight="@dimen/x7"
+        android:layout_marginStart="@dimen/x7"
+        android:layout_marginLeft="@dimen/x7"
+        android:layout_marginEnd="@dimen/x7"
+        android:layout_marginTop="@dimen/x7"
+        android:orientation="horizontal">
+        <com.bbk.open.view.CleanableEditText
+            android:id="@+id/tv_searchkey"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/x30"
+            android:layout_weight="8"
+            android:textSize="12sp"
+            android:singleLine="true"
+            android:padding="@dimen/x5"
+            android:background="@drawable/shape"
+            android:drawableLeft="@drawable/search"
+            android:drawableStart="@drawable/search"
+            android:drawableRight="@drawable/cancelm"
+            android:drawableEnd="@drawable/cancelm"
+            android:layout_marginLeft="@dimen/x7"
+            android:layout_marginRight="@dimen/x7"
+            android:hint="@string/et_hint" />
+
+        <Button
+            android:id="@+id/bt_search_web"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginRight="@dimen/x5"
+            android:text="@string/search_web"
+            android:background="@color/transparent"/>
+
+    </LinearLayout>
+
+
+    <com.bbk.open.view.PagerSlidingTabStripNumber
+        android:id="@+id/tab"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/x40">
+
+    </com.bbk.open.view.PagerSlidingTabStripNumber>
+
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpage1r"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </android.support.v4.view.ViewPager>
+
+        <com.github.clans.fab.FloatingActionMenu
+            android:id="@+id/menu_yellow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom"
+            android:layout_margin="@dimen/x16"
+            fab:menu_labels_style="@style/MenuLabelsStyle"
+            fab:menu_labels_showAnimation="@anim/jump_from_down"
+            fab:menu_labels_hideAnimation="@anim/jump_to_down"
+            fab:menu_animationDelayPerItem="0"
+            fab:menu_shadowColor="#444"
+            fab:menu_colorNormal="#FFB805"
+            fab:menu_colorPressed="#F2AB00"
+            fab:menu_colorRipple="#D99200">
+
+            <com.github.clans.fab.FloatingActionButton
+                android:id="@+id/fab_hide"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/hide"
+                fab:fab_label="隐藏空间"
+                style="@style/MenuButtonsStyle" />
+
+
+
+        </com.github.clans.fab.FloatingActionMenu>
+    </FrameLayout>
+
+
+</LinearLayout>

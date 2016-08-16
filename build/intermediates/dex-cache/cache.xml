@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Project\GlobalSearch\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\com.astuetz-pagerslidingtabstrip-1.0.1_ee8f7f255eca544ee7dd50b9a7530f7ef496704c.jar" />
+    </item>
+    <item
+        jar="E:\Project\GlobalSearch\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.4_b32c3f0f0608302df83221895a0eddf49664985e.jar" />
+    </item>
+    <item
+        jar="E:\Project\GlobalSearch\app\lib\ormlite-core-4.49-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9a8b276da6dada8141f614d3feba25a0e8589db7">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\ormlite-core-4.49-SNAPSHOT_6df8bdcf72ac95459eeef8dae5fbcba1d36c61a8.jar" />
+    </item>
+    <item
+        jar="E:\Project\GlobalSearch\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.9\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1250e88f4b2764043fe4b9c921e83c4d42c5a745">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\pub.devrel-easypermissions-0.1.9_d32b254c154bd9b37246a294085fa85cf98a9432.jar" />
+    </item>
+    <item
+        jar="E:\Project\GlobalSearch\app\build\intermediates\exploded-aar\com.baoyz.swipemenulistview\library\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8ec8378e8d7aa3104f60823e6350f2728d3609ba">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\com.baoyz.swipemenulistview-library-1.3.0_da6f523508b10a96147f900a79f536353c4fa5e1.jar" />
+    </item>
+    <item
+        jar="E:\Project\GlobalSearch\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_fe9e9d778598a8905185439a4f8c0e32d016e123.jar" />
+    </item>
+    <item
+        jar="E:\Project\GlobalSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_2e4a251cf7a37d2c60c7a564e0545d67671449e6.jar" />
+    </item>
+    <item
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_d3af3516828f1fafa6b10dfa75ec5043a8b5210a.jar" />
+    </item>
+    <item
+        jar="E:\Project\GlobalSearch\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_1492f5d8e5ee36babb2caa121c4e232029f7f71e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        jar="E:\Project\GlobalSearch\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_0da224b72d3b47dbe611308f2fbad6ead41f264b.jar" />
+    </item>
+    <item
+        jar="E:\Project\GlobalSearch\app\lib\ormlite-android-4.49-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ecfae85e17f2472852fa8298952f9d52f6a6bfa4">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\ormlite-android-4.49-SNAPSHOT_1b580208e55a5f3516053c9479a4d60929b7fdbe.jar" />
+    </item>
+    <item
+        jar="E:\Project\GlobalSearch\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_f4879c8c07d4615e155a18da101a5234fce36752.jar" />
+    </item>
+    <item
+        jar="E:\Project\GlobalSearch\app\lib\jpinyin-1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8f2a0988f56145888ef22eacaf0c01dcdd8fecd4">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\jpinyin-1.0_f336a16dbda8c75dba9017fa2e10bc89607e399a.jar" />
+    </item>
+    <item
+        jar="E:\Project\GlobalSearch\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Project\GlobalSearch\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_01f056764ff89290e660fea56c9afd2c403fd020.jar" />
+    </item>
+
+</items>
