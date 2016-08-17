@@ -96,7 +96,6 @@ public class MyAdapter extends BaseAdapter {
                             .error(R.drawable.audio)
                             .crossFade()
                             .into(holder.ivIcon);
-
                 break;
             case FileInfo.TYPE_PDF:
                 holder.ivIcon.setImageResource(R.drawable.pdf);
@@ -120,8 +119,11 @@ public class MyAdapter extends BaseAdapter {
                 holder.ivIcon.setImageDrawable(textDrawable);
                 break;
             case FileInfo.TYPE_SMS:
-            case FileInfo.TYPE_SMS + 100:
                 holder.ivIcon.setImageResource(R.drawable.sms);
+                break;
+            case FileInfo.TYPE_INSTALL:
+                bitmap = PhotoHandle.byteToBitmap(list.get(i).getNoSearchInfo());
+                holder.ivIcon.setImageBitmap(bitmap);
                 break;
             default:
                 holder.ivIcon.setImageResource(R.drawable.default_icon);
